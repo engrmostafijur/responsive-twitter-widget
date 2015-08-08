@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Responsive twitter widget will be shown very smoothly. It is very easy to setup . We can go to widget and drag drop .
 
 == Description ==
-
+The plugin help us collecting the feeds from the www.twitter.com. It is better way to collect feeds to your account .
 * Easy to configure responsive twitter widget .
 * Go to Wordpress Dashboard Widget -> Drag drop responsive-twitter-widget Settings
 * Go to www.twitter.com and login here.
@@ -58,9 +58,9 @@ Install, Activate and widget setting
 == Changelog ==
 
 = 1.0 =
-There is no need consumer key,Secret key and API Secret key.
-Just need widget ID and User name.
-100% Responsive task.
+1. There is no need consumer key,Secret key and API Secret key.
+2. Just need widget ID and User name.
+3. 100% Responsive task.
 
 == Upgrade Notice == 
 1. No API Key required
